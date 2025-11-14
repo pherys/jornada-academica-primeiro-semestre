@@ -20,13 +20,11 @@ Embora eu já tenha experiência prática, o curso de Engenharia da Computação
 
 O repositório será organizado por disciplinas e tópicos. A primeira seção será dedicada à matéria fundamental de Lógica de Programação, dividida em 8 aulas/pastas:
 
-[Aula_01_Logica_e_Pseudocodigo:](https://github.com/pherys/jornada-academica-primeiro-semestre/tree/main/aula-1)
+[Aula_01_Logica_e_Pseudocodigo - para uma melhor continuação da aula 1, implementei a parte gráfica:](https://github.com/pherys/jornada-academica-primeiro-semestre/tree/main/aula-1)
 
 📌 Foco: Conceitos do PDF 1, pseudocódigo, a lógica SE/SENÃO.
 
 💡 Projeto: jardim_logica_python.py (Script Python inicial).
-
-Para uma melhor continuação da aula 1, implementei a parte gráfica
 
 📌 Foco: Como HTML/CSS/JS (Frontend) se comunicam com um servidor (Backend).
 
